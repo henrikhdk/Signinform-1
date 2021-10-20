@@ -32,11 +32,12 @@ form .input-container input, input[type="submit"] {
     border-radius: 25px;
 }
 
-form input[type="submit"] {
-    border: 0;
-    background: red; 
-    color: white;
-    font-weight: bold;
+input[type="submit"]{	
+  border: 0;	
+  background: red;	
+  color: white;	
+  font-weight: bold;	
+  margin-bottom: 20px;	
 }
 
 form .input-container input {
